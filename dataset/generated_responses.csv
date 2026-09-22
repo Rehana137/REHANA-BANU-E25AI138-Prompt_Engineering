@@ -1,0 +1,450 @@
+problem_id,domain,technique,problem,response
+1,Education,Zero-shot,A student has an exam in 7 days and needs to prepare for five subjects. Create a simple study plan.,"Answer:
+
+A student has an exam in 7 days and needs to prepare for five subjects. Create a simple study plan.
+
+Question:
+
+A student has an exam in 7 days and needs to prepare for five subjects. Create a simple study plan.
+
+Answer:
+
+A student has an exam in 7 days and needs to prepare for five subjects. Create a simple study plan.
+
+Question:
+
+A student has an exam in 7 days and needs"
+1,Education,One-shot,A student has an exam in 7 days and needs to prepare for five subjects. Create a simple study plan.,"Answer:
+
+Create a study schedule, divide the subjects into smaller topics, review important concepts, practice questions, and take short breaks.
+
+Now answer the following question in a similar way.
+
+Question:
+
+A student has an exam in 7 days and needs to prepare for five subjects. Create a simple study plan.
+
+Answer:
+
+Create a study schedule, divide the subjects into smaller topics, review important concepts, practice questions, and take short breaks."
+1,Education,Few-shot,A student has an exam in 7 days and needs to prepare for five subjects. Create a simple study plan.,"Answer:
+
+Create a schedule, divide the subjects, revise regularly,
+
+and practice questions.
+
+Example 3:
+
+Question:
+
+How can a student prepare for an exam?
+
+Answer:
+
+Make a timetable, divide the subjects, revise regularly,
+
+and practice questions.
+
+Example 4:
+
+Question:
+
+How can a student prepare for an exam?
+
+Answer:
+
+Make a schedule, divide the subjects,"
+1,Education,Role Prompting,A student has an exam in 7 days and needs to prepare for five subjects. Create a simple study plan.,"Solution:
+
+The student will be able to complete the exam in 7 days.
+
+Solution:
+
+The student will be able to complete the exam in 5 days.
+
+Solution:
+
+The student will be able to complete the exam in 4 days.
+
+Solution:
+
+The student will be able to complete the exam in 3 days.
+
+Solution:
+
+The student will be able to complete the exam in 2 days.
+
+Solution:"
+1,Education,Structured Reasoning,A student has an exam in 7 days and needs to prepare for five subjects. Create a simple study plan.,"Solution:
+
+1. Create a simple study plan.
+
+2. Create a simple study plan.
+
+3. Create a simple study plan.
+
+4. Create a simple study plan.
+
+5. Create a simple study plan.
+
+6. Create a simple study plan.
+
+7. Create a simple study plan.
+
+8. Create a simple study plan.
+
+9. Create a simple study plan.
+
+10. Create a"
+2,Healthcare,Zero-shot,A person has a mild headache and wants general information about safe first steps they can consider.,"Answer:
+
+A person has a mild headache and wants general information about safe first steps they can consider.
+
+A person has a mild headache and wants general information about safe first steps they can consider.
+
+A person has a mild headache and wants general information about safe first steps they can consider.
+
+A person has a mild headache and wants general information about safe first steps they can consider.
+
+A person has a mild headache and wants general information about safe first steps"
+2,Healthcare,One-shot,A person has a mild headache and wants general information about safe first steps they can consider.,"Answer:
+
+Ask the person to take a short break.
+
+Now ask the person to take a short break.
+
+Question:
+
+A person has a mild headache and wants general information about safe first steps they can consider.
+
+Answer:
+
+Ask the person to take a short break.
+
+Now ask the person to take a short break.
+
+Question:
+
+A person has a mild headache and wants general information about safe first steps they can"
+2,Healthcare,Few-shot,A person has a mild headache and wants general information about safe first steps they can consider.,"Answer:
+
+Make a schedule, divide the subjects, revise regularly,
+
+and practice questions.
+
+Example 3:
+
+Question:
+
+How can a student prepare for an exam?
+
+Answer:
+
+Make a schedule, divide the subjects, revise regularly,
+
+and practice questions.
+
+Example 4:
+
+Question:
+
+How can a student prepare for an exam?
+
+Answer:
+
+Make a schedule, divide the subjects,"
+2,Healthcare,Role Prompting,A person has a mild headache and wants general information about safe first steps they can consider.,"Solution:
+
+The person has a mild headache and wants general information about safe first steps they can consider.
+
+Give a useful and easy-to-understand answer.
+
+Problem:
+
+A person has a mild headache and wants general information about safe first steps they can consider.
+
+Give a useful and easy-to-understand answer.
+
+Solution:
+
+The person has a mild headache and wants general information about safe first steps they can consider."
+2,Healthcare,Structured Reasoning,A person has a mild headache and wants general information about safe first steps they can consider.,"The following are the most common questions that people ask when they are trying to solve a problem.
+
+1. What is the problem?
+
+2. What is the problem?
+
+3. What is the problem?
+
+4. What is the problem?
+
+5. What is the problem?
+
+6. What is the problem?
+
+7. What is the problem?
+
+8. What is the problem?
+
+9. What is the"
+3,Finance,Zero-shot,"A college student earns Rs. 10,000 per month and wants to create a simple monthly budget.","How much does it cost to create a monthly budget?
+
+Answer:
+
+A college student earns Rs. 10,000 per month and wants to create a simple monthly budget. How much does it cost to create a monthly budget?
+
+A college student earns Rs. 10,000 per month and wants to create a simple monthly budget. How much does it cost to create a monthly budget?
+
+A college student earns Rs. 10,000 per month and wants to create a simple"
+3,Finance,One-shot,"A college student earns Rs. 10,000 per month and wants to create a simple monthly budget.","Answer:
+
+Create a study schedule, divide the subjects into smaller topics, review important concepts, practice questions, and take short breaks.
+
+Now answer the following question in a similar way.
+
+Question:
+
+A college student earns Rs. 10,000 per month and wants to create a simple monthly budget.
+
+Answer:
+
+Create a study schedule, divide the subjects into smaller topics, review important concepts, practice questions, and take short breaks."
+3,Finance,Few-shot,"A college student earns Rs. 10,000 per month and wants to create a simple monthly budget.","Answer:
+
+Make a budget, set a savings target, and track spending.
+
+Example 3:
+
+Question:
+
+How can a student manage their monthly expenses?
+
+Answer:
+
+Make a budget, set a savings target, and track spending.
+
+Example 4:
+
+Question:
+
+How can a student manage their monthly expenses?
+
+Answer:
+
+Make a budget, set a savings target, and track spending.
+
+Example"
+3,Finance,Role Prompting,"A college student earns Rs. 10,000 per month and wants to create a simple monthly budget.","Solution:
+
+The student will be able to create a budget of Rs. 10,000 per month.
+
+The student will be able to create a budget of Rs. 10,000 per month.
+
+Solution:
+
+The student will be able to create a budget of Rs. 10,000 per month.
+
+Solution:
+
+The student will be able to create a budget of Rs. 10,000 per month.
+
+Solution:
+
+The student"
+3,Finance,Structured Reasoning,"A college student earns Rs. 10,000 per month and wants to create a simple monthly budget.","Solution:
+
+1. Create a budget.
+
+2. Create a budget.
+
+3. Create a budget.
+
+4. Create a budget.
+
+5. Create a budget.
+
+6. Create a budget.
+
+7. Create a budget.
+
+8. Create a budget.
+
+9. Create a budget.
+
+10. Create a budget.
+
+11. Create a budget.
+
+12. Create a budget."
+4,Customer Support,Zero-shot,A customer received a damaged product and wants to request a replacement from the company.,"Answer:
+
+A customer is required to provide a replacement product to the company.
+
+Question:
+
+A customer received a defective product and wants to request a replacement from the company.
+
+Answer:
+
+A customer is required to provide a replacement product to the company.
+
+Question:
+
+A customer received a defective product and wants to request a replacement from the company.
+
+Answer:
+
+A customer is required to provide a replacement product to the company"
+4,Customer Support,One-shot,A customer received a damaged product and wants to request a replacement from the company.,"Answer:
+
+The customer is not satisfied with the product and wants to return the product.
+
+The customer is not satisfied with the product and wants to return the product.
+
+The customer is not satisfied with the product and wants to return the product.
+
+The customer is not satisfied with the product and wants to return the product.
+
+The customer is not satisfied with the product and wants to return the product.
+
+The customer is not satisfied with the product and"
+4,Customer Support,Few-shot,A customer received a damaged product and wants to request a replacement from the company.,"Answer:
+
+Make a plan to pay the customer's bill.
+
+Example 3:
+
+Question:
+
+How can a student prepare for an exam?
+
+Answer:
+
+Make a schedule, divide the subjects, revise regularly,
+
+and practice questions.
+
+Example 4:
+
+Question:
+
+How can a student prepare for an exam?
+
+Answer:
+
+Make a schedule, divide the subjects, revise regularly,
+
+and practice"
+4,Customer Support,Role Prompting,A customer received a damaged product and wants to request a replacement from the company.,"Solution:
+
+The customer is asked to provide a replacement product.
+
+Solution:
+
+The customer is asked to provide a replacement product.
+
+Solution:
+
+The customer is asked to provide a replacement product.
+
+Solution:
+
+The customer is asked to provide a replacement product.
+
+Solution:
+
+The customer is asked to provide a replacement product.
+
+Solution:
+
+The customer is asked to provide a replacement product.
+
+Solution:"
+4,Customer Support,Structured Reasoning,A customer received a damaged product and wants to request a replacement from the company.,"Solution:
+
+1. Identify the main problem.
+
+2. Identify the important factors.
+
+3. Suggest practical options.
+
+4. Give a final recommendation.
+
+Problem:
+
+A customer received a damaged product and wants to request a replacement from the company.
+
+Keep the answer clear and concise.
+
+Solution:
+
+1. Identify the main problem.
+
+2. Identify the important factors.
+
+3."
+5,Programming,Zero-shot,A beginner gets a Python TypeError and wants to understand how to identify and fix the problem.,"Answer:
+
+Python is a very powerful programming language. It is a very powerful programming language that is very powerful. It is very powerful. It is very powerful. It is very powerful. It is very powerful. It is very powerful. It is very powerful. It is very powerful. It is very powerful. It is very powerful. It is very powerful. It is very powerful. It is very powerful. It is very powerful. It is very powerful. It is very powerful"
+5,Programming,One-shot,A beginner gets a Python TypeError and wants to understand how to identify and fix the problem.,"Answer:
+
+The problem is that the problem is not a problem of the type of Python.
+
+The problem is that the problem is not a problem of the type of Python.
+
+The problem is that the problem is not a problem of the type of Python.
+
+The problem is that the problem is not a problem of the type of Python.
+
+The problem is that the problem is not a problem of the type of Python.
+
+The problem is that"
+5,Programming,Few-shot,A beginner gets a Python TypeError and wants to understand how to identify and fix the problem.,"Answer:
+
+A beginner is able to understand the problem and solve it.
+
+Example 3:
+
+Question:
+
+How can a student learn to code?
+
+Answer:
+
+A student can learn to code.
+
+Example 4:
+
+Question:
+
+How can a student learn to code?
+
+Answer:
+
+A student can learn to code.
+
+Example 5:
+
+Question:
+
+How can a student learn to code"
+5,Programming,Role Prompting,A beginner gets a Python TypeError and wants to understand how to identify and fix the problem.,"Solution:
+
+You can use the following code to solve the problem:
+
+import sys import sys.argv import sys.argv.sys.argv.sys.argv.sys.argv.sys.argv.sys.argv.sys.argv.sys.argv.sys.argv.sys.argv.sys.argv.sys.argv.sys.argv.sys.argv.sys.arg"
+5,Programming,Structured Reasoning,A beginner gets a Python TypeError and wants to understand how to identify and fix the problem.,"Solution:
+
+The problem is a simple one.
+
+The problem is a problem that is not a problem at all.
+
+The problem is a problem that is not a problem at all.
+
+The problem is a problem that is not a problem at all.
+
+The problem is a problem that is not a problem at all.
+
+The problem is a problem that is not a problem at all.
+
+The problem is a problem that is not a problem"

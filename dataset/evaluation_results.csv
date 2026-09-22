@@ -1,0 +1,26 @@
+problem_id,domain,technique,clarity,completeness,relevance,overall_score
+1,Education,Zero-shot,9,9,9,9.0
+1,Education,One-shot,9,9,9,9.0
+1,Education,Few-shot,9,9,9,9.0
+1,Education,Role Prompting,9,9,9,9.0
+1,Education,Structured Reasoning,9,9,9,9.0
+2,Healthcare,Zero-shot,9,9,9,9.0
+2,Healthcare,One-shot,9,9,9,9.0
+2,Healthcare,Few-shot,9,9,8,8.67
+2,Healthcare,Role Prompting,9,9,9,9.0
+2,Healthcare,Structured Reasoning,9,9,7,8.33
+3,Finance,Zero-shot,9,9,9,9.0
+3,Finance,One-shot,9,9,9,9.0
+3,Finance,Few-shot,9,9,8,8.67
+3,Finance,Role Prompting,9,9,9,9.0
+3,Finance,Structured Reasoning,9,8,8,8.33
+4,Customer Support,Zero-shot,9,9,9,9.0
+4,Customer Support,One-shot,9,9,9,9.0
+4,Customer Support,Few-shot,9,9,8,8.67
+4,Customer Support,Role Prompting,9,9,9,9.0
+4,Customer Support,Structured Reasoning,9,9,9,9.0
+5,Programming,Zero-shot,9,9,7,8.33
+5,Programming,One-shot,9,9,7,8.33
+5,Programming,Few-shot,9,9,9,9.0
+5,Programming,Role Prompting,7,7,7,7.0
+5,Programming,Structured Reasoning,9,9,7,8.33

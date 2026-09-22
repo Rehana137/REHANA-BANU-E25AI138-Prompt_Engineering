@@ -1,0 +1,296 @@
+problem_id,domain,technique,problem,prompt
+1,Education,Zero-shot,A student has an exam in 7 days and needs to prepare for five subjects. Create a simple study plan.,"Answer the following question clearly and simply.
+
+Question:
+A student has an exam in 7 days and needs to prepare for five subjects. Create a simple study plan."
+1,Education,One-shot,A student has an exam in 7 days and needs to prepare for five subjects. Create a simple study plan.,"Here is an example:
+
+Question:
+How can a student prepare for an exam?
+
+Answer:
+Create a study schedule, divide the subjects into smaller topics,
+review important concepts, practice questions, and take short breaks.
+
+Now answer the following question in a similar way.
+
+Question:
+A student has an exam in 7 days and needs to prepare for five subjects. Create a simple study plan."
+1,Education,Few-shot,A student has an exam in 7 days and needs to prepare for five subjects. Create a simple study plan.,"Example 1:
+
+Question:
+How can a student prepare for an exam?
+
+Answer:
+Make a timetable, divide the subjects, revise regularly,
+and practice questions.
+
+Example 2:
+
+Question:
+How can someone manage their monthly expenses?
+
+Answer:
+List income and expenses, prioritize essential expenses,
+set a savings target, and track spending.
+
+Now answer this question:
+
+Question:
+A student has an exam in 7 days and needs to prepare for five subjects. Create a simple study plan."
+1,Education,Role Prompting,A student has an exam in 7 days and needs to prepare for five subjects. Create a simple study plan.,"You are an experienced professional who gives practical,
+clear and beginner-friendly advice.
+
+Your task is to answer the following problem.
+
+Problem:
+A student has an exam in 7 days and needs to prepare for five subjects. Create a simple study plan.
+
+Give a useful and easy-to-understand answer."
+1,Education,Structured Reasoning,A student has an exam in 7 days and needs to prepare for five subjects. Create a simple study plan.,"Analyze the problem using these steps:
+
+1. Identify the main problem.
+2. Identify the important factors.
+3. Suggest practical options.
+4. Give a final recommendation.
+
+Problem:
+A student has an exam in 7 days and needs to prepare for five subjects. Create a simple study plan.
+
+Keep the answer clear and concise."
+2,Healthcare,Zero-shot,A person has a mild headache and wants general information about safe first steps they can consider.,"Answer the following question clearly and simply.
+
+Question:
+A person has a mild headache and wants general information about safe first steps they can consider."
+2,Healthcare,One-shot,A person has a mild headache and wants general information about safe first steps they can consider.,"Here is an example:
+
+Question:
+How can a student prepare for an exam?
+
+Answer:
+Create a study schedule, divide the subjects into smaller topics,
+review important concepts, practice questions, and take short breaks.
+
+Now answer the following question in a similar way.
+
+Question:
+A person has a mild headache and wants general information about safe first steps they can consider."
+2,Healthcare,Few-shot,A person has a mild headache and wants general information about safe first steps they can consider.,"Example 1:
+
+Question:
+How can a student prepare for an exam?
+
+Answer:
+Make a timetable, divide the subjects, revise regularly,
+and practice questions.
+
+Example 2:
+
+Question:
+How can someone manage their monthly expenses?
+
+Answer:
+List income and expenses, prioritize essential expenses,
+set a savings target, and track spending.
+
+Now answer this question:
+
+Question:
+A person has a mild headache and wants general information about safe first steps they can consider."
+2,Healthcare,Role Prompting,A person has a mild headache and wants general information about safe first steps they can consider.,"You are an experienced professional who gives practical,
+clear and beginner-friendly advice.
+
+Your task is to answer the following problem.
+
+Problem:
+A person has a mild headache and wants general information about safe first steps they can consider.
+
+Give a useful and easy-to-understand answer."
+2,Healthcare,Structured Reasoning,A person has a mild headache and wants general information about safe first steps they can consider.,"Analyze the problem using these steps:
+
+1. Identify the main problem.
+2. Identify the important factors.
+3. Suggest practical options.
+4. Give a final recommendation.
+
+Problem:
+A person has a mild headache and wants general information about safe first steps they can consider.
+
+Keep the answer clear and concise."
+3,Finance,Zero-shot,"A college student earns Rs. 10,000 per month and wants to create a simple monthly budget.","Answer the following question clearly and simply.
+
+Question:
+A college student earns Rs. 10,000 per month and wants to create a simple monthly budget."
+3,Finance,One-shot,"A college student earns Rs. 10,000 per month and wants to create a simple monthly budget.","Here is an example:
+
+Question:
+How can a student prepare for an exam?
+
+Answer:
+Create a study schedule, divide the subjects into smaller topics,
+review important concepts, practice questions, and take short breaks.
+
+Now answer the following question in a similar way.
+
+Question:
+A college student earns Rs. 10,000 per month and wants to create a simple monthly budget."
+3,Finance,Few-shot,"A college student earns Rs. 10,000 per month and wants to create a simple monthly budget.","Example 1:
+
+Question:
+How can a student prepare for an exam?
+
+Answer:
+Make a timetable, divide the subjects, revise regularly,
+and practice questions.
+
+Example 2:
+
+Question:
+How can someone manage their monthly expenses?
+
+Answer:
+List income and expenses, prioritize essential expenses,
+set a savings target, and track spending.
+
+Now answer this question:
+
+Question:
+A college student earns Rs. 10,000 per month and wants to create a simple monthly budget."
+3,Finance,Role Prompting,"A college student earns Rs. 10,000 per month and wants to create a simple monthly budget.","You are an experienced professional who gives practical,
+clear and beginner-friendly advice.
+
+Your task is to answer the following problem.
+
+Problem:
+A college student earns Rs. 10,000 per month and wants to create a simple monthly budget.
+
+Give a useful and easy-to-understand answer."
+3,Finance,Structured Reasoning,"A college student earns Rs. 10,000 per month and wants to create a simple monthly budget.","Analyze the problem using these steps:
+
+1. Identify the main problem.
+2. Identify the important factors.
+3. Suggest practical options.
+4. Give a final recommendation.
+
+Problem:
+A college student earns Rs. 10,000 per month and wants to create a simple monthly budget.
+
+Keep the answer clear and concise."
+4,Customer Support,Zero-shot,A customer received a damaged product and wants to request a replacement from the company.,"Answer the following question clearly and simply.
+
+Question:
+A customer received a damaged product and wants to request a replacement from the company."
+4,Customer Support,One-shot,A customer received a damaged product and wants to request a replacement from the company.,"Here is an example:
+
+Question:
+How can a student prepare for an exam?
+
+Answer:
+Create a study schedule, divide the subjects into smaller topics,
+review important concepts, practice questions, and take short breaks.
+
+Now answer the following question in a similar way.
+
+Question:
+A customer received a damaged product and wants to request a replacement from the company."
+4,Customer Support,Few-shot,A customer received a damaged product and wants to request a replacement from the company.,"Example 1:
+
+Question:
+How can a student prepare for an exam?
+
+Answer:
+Make a timetable, divide the subjects, revise regularly,
+and practice questions.
+
+Example 2:
+
+Question:
+How can someone manage their monthly expenses?
+
+Answer:
+List income and expenses, prioritize essential expenses,
+set a savings target, and track spending.
+
+Now answer this question:
+
+Question:
+A customer received a damaged product and wants to request a replacement from the company."
+4,Customer Support,Role Prompting,A customer received a damaged product and wants to request a replacement from the company.,"You are an experienced professional who gives practical,
+clear and beginner-friendly advice.
+
+Your task is to answer the following problem.
+
+Problem:
+A customer received a damaged product and wants to request a replacement from the company.
+
+Give a useful and easy-to-understand answer."
+4,Customer Support,Structured Reasoning,A customer received a damaged product and wants to request a replacement from the company.,"Analyze the problem using these steps:
+
+1. Identify the main problem.
+2. Identify the important factors.
+3. Suggest practical options.
+4. Give a final recommendation.
+
+Problem:
+A customer received a damaged product and wants to request a replacement from the company.
+
+Keep the answer clear and concise."
+5,Programming,Zero-shot,A beginner gets a Python TypeError and wants to understand how to identify and fix the problem.,"Answer the following question clearly and simply.
+
+Question:
+A beginner gets a Python TypeError and wants to understand how to identify and fix the problem."
+5,Programming,One-shot,A beginner gets a Python TypeError and wants to understand how to identify and fix the problem.,"Here is an example:
+
+Question:
+How can a student prepare for an exam?
+
+Answer:
+Create a study schedule, divide the subjects into smaller topics,
+review important concepts, practice questions, and take short breaks.
+
+Now answer the following question in a similar way.
+
+Question:
+A beginner gets a Python TypeError and wants to understand how to identify and fix the problem."
+5,Programming,Few-shot,A beginner gets a Python TypeError and wants to understand how to identify and fix the problem.,"Example 1:
+
+Question:
+How can a student prepare for an exam?
+
+Answer:
+Make a timetable, divide the subjects, revise regularly,
+and practice questions.
+
+Example 2:
+
+Question:
+How can someone manage their monthly expenses?
+
+Answer:
+List income and expenses, prioritize essential expenses,
+set a savings target, and track spending.
+
+Now answer this question:
+
+Question:
+A beginner gets a Python TypeError and wants to understand how to identify and fix the problem."
+5,Programming,Role Prompting,A beginner gets a Python TypeError and wants to understand how to identify and fix the problem.,"You are an experienced professional who gives practical,
+clear and beginner-friendly advice.
+
+Your task is to answer the following problem.
+
+Problem:
+A beginner gets a Python TypeError and wants to understand how to identify and fix the problem.
+
+Give a useful and easy-to-understand answer."
+5,Programming,Structured Reasoning,A beginner gets a Python TypeError and wants to understand how to identify and fix the problem.,"Analyze the problem using these steps:
+
+1. Identify the main problem.
+2. Identify the important factors.
+3. Suggest practical options.
+4. Give a final recommendation.
+
+Problem:
+A beginner gets a Python TypeError and wants to understand how to identify and fix the problem.
+
+Keep the answer clear and concise."

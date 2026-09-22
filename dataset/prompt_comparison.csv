@@ -1,0 +1,26 @@
+problem_id,domain,technique,response_length,word_count
+1,Education,Zero-shot,384,74
+1,Education,One-shot,455,70
+1,Education,Few-shot,357,53
+1,Education,Role Prompting,354,66
+1,Education,Structured Reasoning,311,58
+2,Healthcare,Zero-shot,498,83
+2,Healthcare,One-shot,396,71
+2,Healthcare,Few-shot,354,53
+2,Healthcare,Role Prompting,432,66
+2,Healthcare,Structured Reasoning,316,62
+3,Finance,Zero-shot,415,77
+3,Finance,One-shot,445,66
+3,Finance,Few-shot,354,56
+3,Finance,Role Prompting,335,62
+3,Finance,Structured Reasoning,264,49
+4,Customer Support,Zero-shot,453,71
+4,Customer Support,One-shot,464,80
+4,Customer Support,Few-shot,345,54
+4,Customer Support,Role Prompting,417,61
+4,Customer Support,Structured Reasoning,360,54
+5,Programming,Zero-shot,436,79
+5,Programming,One-shot,393,80
+5,Programming,Few-shot,315,56
+5,Programming,Role Prompting,232,17
+5,Programming,Structured Reasoning,367,77
